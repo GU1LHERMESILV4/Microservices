@@ -1,6 +1,7 @@
 package com.guilherme.microsservices.dto;
 
 
+import com.guilherme.microsservices.model.User;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
