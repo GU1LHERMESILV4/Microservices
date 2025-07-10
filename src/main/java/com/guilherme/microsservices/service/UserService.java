@@ -28,7 +28,7 @@ public class UserService {
                 .collect(Collectors.toList());
     }
 
-    public UserDTO findbtId(Long id) {
+    public UserDTO findbyId(Long id) {
         User usuario = userRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("User not found."));
         return UserDTO.convert(usuario);
