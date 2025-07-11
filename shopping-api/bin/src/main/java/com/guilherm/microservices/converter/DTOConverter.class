@@ -1,0 +1,20 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+package src.main.com.guilherme.microservices.converter;
+
+public class DTOConverter {
+    public DTOConverter() {
+        throw new Error("Unresolved compilation problems: \n\tThe type java.lang.Object cannot be resolved. It is indirectly referenced from required .class files\n\tThe declared package \"com.santan.java.back.end.converter\" does not match the expected package \"src.main.java.com.santan.java.back.end.converter\"\n\tThe import java.util cannot be resolved\n\tThe import com cannot be resolved\n\tThe import com cannot be resolved\n\tThe import com cannot be resolved\n\tThe import com cannot be resolved\n\tImplicit super constructor Object() is undefined for default constructor. Must define an explicit constructor\n\tItemDTO cannot be resolved to a type\n\tItem cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tCollectors cannot be resolved\n");
+    }
+
+    public static ItemDTO convert(Item var0) {
+        throw new Error("Unresolved compilation problems: \n\tItemDTO cannot be resolved to a type\n\tItem cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n");
+    }
+
+    public static ShopDTO convert(Shop var0) {
+        throw new Error("Unresolved compilation problems: \n\tShopDTO cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tCollectors cannot be resolved\n");
+    }
+}

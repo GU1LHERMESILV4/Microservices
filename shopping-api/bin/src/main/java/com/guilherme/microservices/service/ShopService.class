@@ -1,0 +1,44 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+package src.main.java.com.guilherme.microservices.service;
+
+@Service
+public class ShopService {
+    @Autowired
+    private ShopRepository shopRepository;
+    @Autowired
+    private ProductService productService;
+    @Autowired
+    private UserService userService;
+
+    public ShopService() {
+        throw new Error("Unresolved compilation problems: \n\tThe declared package \"com.santana.java.back.end.service\" does not match the expected package \"src.main.java.com.santana.java.back.end.service\"\n\tThe import java.util cannot be resolved\n\tThe import java.util cannot be resolved\n\tThe import java.util cannot be resolved\n\tThe import java.util cannot be resolved\n\tThe import org cannot be resolved\n\tThe import org cannot be resolved\n\tThe import com cannot be resolved\n\tThe import com cannot be resolved\n\tThe import com cannot be resolved\n\tThe import com cannot be resolved\n\tThe import com cannot be resolved\n\tThe import com cannot be resolved\n\tService cannot be resolved to a type\n\tImplicit super constructor Object() is undefined for default constructor. Must define an explicit constructor\n\tAutowired cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tAutowired cannot be resolved to a type\n\tAutowired cannot be resolved to a type\n\tList cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tList cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n\tCollectors cannot be resolved\n\tList cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tString cannot be resolved to a type\n\tList cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n\tCollectors cannot be resolved\n\tList cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tList cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n\tCollectors cannot be resolved\n\tShopDTO cannot be resolved to a type\n\tOptional cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n\tShopDTO cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tFloat cannot be resolved\n\tShop cannot be resolved to a type\n\tShop cannot be resolved\n\tDate cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n\tList cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n\tProductDTO cannot be resolved to a type\n");
+    }
+
+    public List<ShopDTO> getAll() {
+        throw new Error("Unresolved compilation problems: \n\tList cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tList cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n\tCollectors cannot be resolved\n");
+    }
+
+    public List<ShopDTO> getByUser(String var1) {
+        throw new Error("Unresolved compilation problems: \n\tList cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tString cannot be resolved to a type\n\tList cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n\tCollectors cannot be resolved\n");
+    }
+
+    public List<ShopDTO> getByDate(ShopDTO var1) {
+        throw new Error("Unresolved compilation problems: \n\tList cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tList cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n\tCollectors cannot be resolved\n");
+    }
+
+    public ShopDTO findById(long var1) {
+        throw new Error("Unresolved compilation problems: \n\tShopDTO cannot be resolved to a type\n\tOptional cannot be resolved to a type\n\tShop cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n");
+    }
+
+    public ShopDTO save(ShopDTO var1) {
+        throw new Error("Unresolved compilation problems: \n\tShopDTO cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tFloat cannot be resolved\n\tShop cannot be resolved to a type\n\tShop cannot be resolved\n\tDate cannot be resolved to a type\n\tShopRepository cannot be resolved to a type\n\tDTOConverter cannot be resolved\n");
+    }
+
+    boolean validateProducts(List<ItemDTO> var1) {
+        throw new Error("Unresolved compilation problems: \n\tList cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n\tProductDTO cannot be resolved to a type\n");
+    }
+}

@@ -1,0 +1,17 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+package src.main.java.com.guilherme.microservices.service;
+
+@Service
+public class UserService {
+    public UserService() {
+        throw new Error("Unresolved compilation problems: \n\tThe declared package \"com.santana.java.back.end.service\" does not match the expected package \"src.main.java.com.santana.java.back.end.service\"\n\tThe import org cannot be resolved\n\tThe import org cannot be resolved\n\tThe import org cannot be resolved\n\tThe import com cannot be resolved\n\tService cannot be resolved to a type\n\tImplicit super constructor Object() is undefined for default constructor. Must define an explicit constructor\n\tUserDTO cannot be resolved to a type\n\tString cannot be resolved to a type\n\tRestTemplate cannot be resolved to a type\n\tRestTemplate cannot be resolved to a type\n\tString cannot be resolved to a type\n\tResponseEntity cannot be resolved to a type\n\tUserDTO cannot be resolved to a type\n\tUserDTO cannot be resolved to a type\n");
+    }
+
+    public UserDTO getUserByCpf(String var1) {
+        throw new Error("Unresolved compilation problems: \n\tUserDTO cannot be resolved to a type\n\tString cannot be resolved to a type\n\tRestTemplate cannot be resolved to a type\n\tRestTemplate cannot be resolved to a type\n\tString cannot be resolved to a type\n\tResponseEntity cannot be resolved to a type\n\tUserDTO cannot be resolved to a type\n\tUserDTO cannot be resolved to a type\n");
+    }
+}

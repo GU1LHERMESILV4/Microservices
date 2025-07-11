@@ -1,0 +1,36 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+package src.main.java.com.guilherme.microservices.model;
+
+@Embeddable
+public class Item {
+    private String productIdentifier;
+    private Float price;
+
+    public Item() {
+        throw new Error("Unresolved compilation problems: \n\tThe declared package \"com.santana.java.back.end.model\" does not match the expected package \"src.main.java.com.santana.java.back.end.model\"\n\tThe import javax cannot be resolved\n\tThe import com cannot be resolved\n\tEmbeddable cannot be resolved to a type\n\tImplicit super constructor Object() is undefined for default constructor. Must define an explicit constructor\n\tString cannot be resolved to a type\n\tFloat cannot be resolved to a type\n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n\tFloat cannot be resolved to a type\n\tFloat cannot be resolved to a type\n\tFloat cannot be resolved to a type\n\tFloat cannot be resolved to a type\n\tItemDTO cannot be resolved to a type\n");
+    }
+
+    public String getProductIdentifier() {
+        throw new Error("Unresolved compilation problems: \n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n");
+    }
+
+    public void setProductIdentifier(String var1) {
+        throw new Error("Unresolved compilation problems: \n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n");
+    }
+
+    public Float getPrice() {
+        throw new Error("Unresolved compilation problems: \n\tFloat cannot be resolved to a type\n\tFloat cannot be resolved to a type\n");
+    }
+
+    public void setPrice(Float var1) {
+        throw new Error("Unresolved compilation problems: \n\tFloat cannot be resolved to a type\n\tFloat cannot be resolved to a type\n");
+    }
+
+    public static Item convert(ItemDTO var0) {
+        throw new Error("Unresolved compilation problem: \n\tItemDTO cannot be resolved to a type\n");
+    }
+}

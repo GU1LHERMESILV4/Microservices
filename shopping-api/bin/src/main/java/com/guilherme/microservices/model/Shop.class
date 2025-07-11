@@ -1,0 +1,67 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+package src.main.java.com.guilherme.microservices.model;
+
+@Entity
+public class Shop {
+    @Id
+    @GeneratedValue
+    private long id;
+    private String userIdentifier;
+    private float total;
+    private Date date;
+    @ElementCollection
+    @CollectionTable
+    private List<Item> items;
+
+    public Shop() {
+        throw new Error("Unresolved compilation problems: \n\tThe declared package \"com.santana.java.back.end.model\" does not match the expected package \"src.main.java.com.santana.java.back.end.model\"\n\tThe import java.util cannot be resolved\n\tThe import java.util cannot be resolved\n\tThe import java.util cannot be resolved\n\tThe import javax cannot be resolved\n\tThe import javax cannot be resolved\n\tThe import javax cannot be resolved\n\tThe import javax cannot be resolved\n\tThe import javax cannot be resolved\n\tThe import javax cannot be resolved\n\tThe import javax cannot be resolved\n\tThe import javax cannot be resolved\n\tThe import com cannot be resolved\n\tEntity cannot be resolved to a type\n\tImplicit super constructor Object() is undefined for default constructor. Must define an explicit constructor\n\tId cannot be resolved to a type\n\tGeneratedValue cannot be resolved to a type\n\tGenerationType cannot be resolved to a variable\n\tString cannot be resolved to a type\n\tDate cannot be resolved to a type\n\tElementCollection cannot be resolved to a type\n\tFetchType cannot be resolved to a variable\n\tCollectionTable cannot be resolved to a type\n\tJoinColumn cannot be resolved to a type\n\tList cannot be resolved to a type\n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n\tDate cannot be resolved to a type\n\tDate cannot be resolved to a type\n\tDate cannot be resolved to a type\n\tDate cannot be resolved to a type\n\tList cannot be resolved to a type\n\tList cannot be resolved to a type\n\tList cannot be resolved to a type\n\tList cannot be resolved to a type\n\tShopDTO cannot be resolved to a type\n\tCollectors cannot be resolved\n");
+    }
+
+    public long getId() {
+        throw new Error("Unresolved compilation problem: \n");
+    }
+
+    public void setId(long var1) {
+        throw new Error("Unresolved compilation problem: \n");
+    }
+
+    public String getUserIdentifier() {
+        throw new Error("Unresolved compilation problems: \n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n");
+    }
+
+    public void setUserIdentifier(String var1) {
+        throw new Error("Unresolved compilation problems: \n\tString cannot be resolved to a type\n\tString cannot be resolved to a type\n");
+    }
+
+    public float getTotal() {
+        throw new Error("Unresolved compilation problem: \n");
+    }
+
+    public void setTotal(float var1) {
+        throw new Error("Unresolved compilation problem: \n");
+    }
+
+    public Date getDate() {
+        throw new Error("Unresolved compilation problems: \n\tDate cannot be resolved to a type\n\tDate cannot be resolved to a type\n");
+    }
+
+    public void setDate(Date var1) {
+        throw new Error("Unresolved compilation problems: \n\tDate cannot be resolved to a type\n\tDate cannot be resolved to a type\n");
+    }
+
+    public List<Item> getItems() {
+        throw new Error("Unresolved compilation problems: \n\tList cannot be resolved to a type\n\tList cannot be resolved to a type\n");
+    }
+
+    public void setItems(List<Item> var1) {
+        throw new Error("Unresolved compilation problems: \n\tList cannot be resolved to a type\n\tList cannot be resolved to a type\n");
+    }
+
+    public static Shop convert(ShopDTO var0) {
+        throw new Error("Unresolved compilation problems: \n\tShopDTO cannot be resolved to a type\n\tCollectors cannot be resolved\n");
+    }
+}
