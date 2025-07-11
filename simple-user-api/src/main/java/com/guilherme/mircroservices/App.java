@@ -1,13 +1,13 @@
-package com.guilherme.microsservices;
+package com.guilherme.mircroservices.simple_user_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicroservicesApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicroservicesApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }
